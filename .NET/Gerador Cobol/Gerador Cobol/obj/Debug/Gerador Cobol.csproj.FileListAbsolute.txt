@@ -1,0 +1,9 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\Templates\Robôs\Gerador Cobol\Gerador Cobol\bin\Debug\Gerador Cobol.exe.config
+C:\Users\gusta\OneDrive\Área de Trabalho\Templates\Robôs\Gerador Cobol\Gerador Cobol\bin\Debug\Gerador Cobol.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\Templates\Robôs\Gerador Cobol\Gerador Cobol\bin\Debug\Gerador Cobol.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Templates\Robôs\Gerador Cobol\Gerador Cobol\obj\Debug\Gerador Cobol.csprojAssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Templates\Robôs\Gerador Cobol\Gerador Cobol\obj\Debug\Gerador_Cobol.Form1.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\Templates\Robôs\Gerador Cobol\Gerador Cobol\obj\Debug\Gerador_Cobol.Properties.Resources.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\Templates\Robôs\Gerador Cobol\Gerador Cobol\obj\Debug\Gerador Cobol.csproj.GenerateResource.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Templates\Robôs\Gerador Cobol\Gerador Cobol\obj\Debug\Gerador Cobol.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\Templates\Robôs\Gerador Cobol\Gerador Cobol\obj\Debug\Gerador Cobol.pdb
